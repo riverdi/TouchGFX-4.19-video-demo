@@ -1,0 +1,23 @@
+!SESSION 2022-05-18 13:39:50.161 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import ../../STM32CubeIDE/CM7/ -cleanBuild Riverdi_101STM32H7_CM7
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import ../../STM32CubeIDE/CM7/ -cleanBuild Riverdi_101STM32H7_CM7
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-05-18 13:40:18.768
+!MESSAGE Indexed 'Riverdi_101STM32H7_CM7' (193 sources, 431 headers) in 20,7 sec: 47 194 declarations; 234 217 references; 0 unresolved inclusions; 75 syntax errors; 553 unresolved names (0,2%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-05-18 13:40:30.816
+!MESSAGE Indexed 'Riverdi_101STM32H7_CM7' (193 sources, 431 headers) in 12 sec: 47 194 declarations; 234 217 references; 0 unresolved inclusions; 75 syntax errors; 553 unresolved names (0,2%)
+!SESSION 2022-05-18 13:56:32.711 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import ../../STM32CubeIDE/CM7/ -cleanBuild Riverdi_101STM32H7_CM7
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import ../../STM32CubeIDE/CM7/ -cleanBuild Riverdi_101STM32H7_CM7
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-05-18 13:56:57.279
+!MESSAGE Indexed 'Riverdi_101STM32H7_CM7' (193 sources, 431 headers) in 19 sec: 47 194 declarations; 234 217 references; 0 unresolved inclusions; 75 syntax errors; 553 unresolved names (0,2%)
